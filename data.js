@@ -106,7 +106,6 @@ const COURSE = {
             { name: "Parsa Zargar", photo: "assets/images/Parsa Zargar.jpg" },
             { name: "Roham Izadidoost", photo: "assets/images/Roham izadidoost.jpg" },
             { name: "Saba Sattary", photo: "assets/images/Saba Sattary.jpg" },
-            { name: "Setareh Kahnamooie" },
             { name: "Sina Taheri", photo: "assets/images/Sina Taheri.jpg" },
             { name: "Somayeh Rezaie", photo: "assets/images/Somayeh Rezaie.jpg" },
           ],
