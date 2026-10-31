@@ -80,13 +80,13 @@ const COURSE = {
           ],
         },
         {
-          title: "Head Teacher Assistant",
+          title: "Head Teaching Assistant",
           people: [
             { name: "Mohammadmostafa Rostamkhani", photo: "assets/images/Mohammadmostafa Rostamkhani.png" },
           ],
         },
         {
-          title: "Teacher Assistants",
+          title: "Teaching Assistants",
           people: [
             { name: "Amir Jebbeli", photo: "assets/images/Amir Jebbeli.jpg" },
             { name: "Aida Khaleghi", photo: "assets/images/Aida Khaleghi.jpg" },
