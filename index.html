@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Course Website</title>
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+  <!-- Top menu bar (filled automatically from data.js) -->
+  <nav class="navbar">
+    <a class="brand" href="#top" id="brand"></a>
+    <button class="menu-toggle" id="menu-toggle" aria-label="Open menu">☰</button>
+    <div class="nav-links" id="nav-links"></div>
+  </nav>
+
+  <main class="container" id="top">
+    <!-- Title box -->
+    <header class="hero card">
+      <h1 id="course-title"></h1>
+      <p id="course-subtitle"></p>
+    </header>
+
+    <!-- All sections are inserted here from data.js -->
+    <div id="sections"></div>
+  </main>
+
+  <footer class="footer" id="footer"></footer>
+
+  <a href="#top" class="to-top" id="to-top" aria-label="Back to top">↑</a>
+
+  <!-- 1) course content   2) code that builds the page -->
+  <script src="data.js"></script>
+  <script src="assets/script.js"></script>
+</body>
+</html>
