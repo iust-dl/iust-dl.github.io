@@ -96,7 +96,7 @@ const COURSE = {
             { name: "Donya Esfandiarpoor" },
             { name: "Fahimeh Valizade" },
             { name: "Hadis Mirzaie", photo: "assets/images/Hadis Mirzaie.jpg" },
-            { name: "Hamidreza Esfandiari", photo: "assets/images/Hamidreza Esfandiari.jpg" },
+            { name: "Hamidreza Eskandari", photo: "assets/images/Hamidreza Eskandari.jpg" },
             { name: "Javad Faraji", photo: "assets/images/Javad Faraji.png" },
             { name: "Mahdi Oshani", photo: "assets/images/Mahdi Oshani.jpg" },
             { name: "Mahyar Rajaei", photo: "assets/images/Mahyar Rajaei.jpg" },
